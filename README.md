@@ -25,7 +25,7 @@ DB_NAME=postgres
 DB_USER=postgres
 DB_PASSWORD=sua_senha
 TABLE_NAME=nome_da_tabela
-API_KEY=
+API_URL=
 ```
 
 ## Rodar localmente

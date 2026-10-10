@@ -1,6 +1,6 @@
 services:
   api-datahack:
-    build: .
+    image: hiannyurt/api-datahack:latest
     container_name: api-datahack
     env_file:
       - .env

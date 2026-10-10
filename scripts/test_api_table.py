@@ -2,7 +2,7 @@ import json
 import os
 from urllib import error, request
 
-API_URL = os.getenv("API_URL", "localhost:8000")
+API_URL = os.getenv("API_URL", "http://143.95.171.53:8000")
 DEFAULT_TABLE = os.getenv("TABLE_NAME", "analytics.p5_curso")
 
 
